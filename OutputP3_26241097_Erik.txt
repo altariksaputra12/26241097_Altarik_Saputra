@@ -1,0 +1,13 @@
+Masukan Nama: Altarik Saputra
+Masukan NIM: 26241097
+Program Studi: Pendidikan Teknologi Informasi
+2 digit nim: 97
+==========output==========
+Nama: Altarik Saputra
+NIM: 26241097
+Program Studi: Pendidikan Teknologi Informasi
+Dua Digit Terakhir NIM: 97
+Tipe data Nama: <class 'str'>
+Tipe data NIM: <class 'int'>
+Tipe data Program Studi: <class 'str'>
+Tipe data Dua Digit NIM: <class 'int'>
