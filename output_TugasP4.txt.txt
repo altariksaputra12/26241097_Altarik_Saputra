@@ -1,0 +1,13 @@
+Nama: Altarik Saputra
+Digit NIM: 26241097
+2 digit terakhir NIM: 97
+Digit terakhir NIM: 7
+angka pertama: 97
+angka kedua: 8
+Hasil Penjumlahan: 104
+Hasil Pengurangan: 90
+Hasil Perkalian: 679
+Hasil Pembagian: 13.857142857142858
+Hasil Modulus: 6
+Hasil Pemangkatan: 80798284478113
+Hasil Pembagian Bulat: 13
